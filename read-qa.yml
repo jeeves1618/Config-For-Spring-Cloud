@@ -1,3 +1,7 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
 myreads:
   url: "http://myphenotype.in/"
   description: "These books are hard copies, ebooks and audibles."

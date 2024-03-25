@@ -1,3 +1,7 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
 myreads:
   url: "https://jeeves1618.github.io/Learnings/myreads.html"
   description: "The list of books I have ever read"
