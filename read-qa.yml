@@ -1,0 +1,5 @@
+myreads:
+  url: "http://myphenotype.in/"
+  description: "These books are hard copies, ebooks and audibles."
+  sorting: "The books are sorted based on their most recent read date."
+  whatdoimean: "If I have read or listened to a book in 2003, 2006 and 2016, you will see them only under 2016"
